@@ -1,14 +1,13 @@
 ## Movie Recommendation System Using Facial Recognition
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+A smart movie recommendation system that uses facial recognition to detect a user’s emotion in real-time and suggests movies that match their mood. The system aims to enhance the movie-watching experience by providing personalized recommendations based on emotional state.
 
-## About
+## About:
 <!--Detailed Description about the project-->
 In the modern digital entertainment era, users are exposed to an overwhelming number of movie choices across various platforms. Traditional movie recommendation systems rely primarily on user ratings, watch history, and genre preferences, which often fail to capture the user’s real-time emotional state. This project proposes an Emotion-Based Movie Recommendation System that uses facial recognition and real-time emotion detection to provide personalized movie suggestions.
 The system captures live video input through a webcam and analyzes facial expressions using deep learning techniques to detect emotions such as happy, sad, angry, neutral, fear, and surprise. Based on the detected emotion, the system maps the emotion to suitable movie genres and fetches relevant movie recommendations from an online movie database. This approach eliminates the need for manual input and enhances user experience by offering instant, emotion-aware recommendations.
 The proposed system integrates computer vision, machine learning, and real-time data processing to create an intelligent and interactive recommendation platform. It is efficient, user-friendly, and can be extended to OTT platforms, smart TVs, and personalized entertainment systems in the future
 
-## Features
+## Features:
 <!--List the features of the project as shown below-->
 -Real-time emotion detection using facial recognition.
 
@@ -22,7 +21,7 @@ The proposed system integrates computer vision, machine learning, and real-time 
 
 -Easy-to-deploy Python application with minimal time complexity.
 
-## Requirements
+## Requirements:
 <!--List the requirements of the project as shown below-->
 Operating System: 64-bit Windows 10 or Ubuntu.
 
@@ -36,13 +35,13 @@ Additional Libraries: requests for fetching images from URLs and numpy for image
 
 IDE & Version Control: VSCode for coding and debugging and Git for version control and collaborative development.
 
-## System Architecture
+## System Architecture:
 <!--Embed the system architecture diagram as shown below-->
 
 <img width="420" height="435" alt="Screenshot 2026-01-07 170543" src="https://github.com/user-attachments/assets/b911dc81-ebeb-4c88-b37d-46ac2671e8bf" />
 <img width="640" height="328" alt="Screenshot 2026-01-07 170605" src="https://github.com/user-attachments/assets/175f9a67-bd1f-4462-9000-2c2f3aaeccf8" />
 
-## Output
+## Output:
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 -  emotion analysing
@@ -56,7 +55,7 @@ Detection Accuracy: 96.7%
 
 
 
-## Results and Impact
+## Results and Impact:
 <!--Give the results and impact as shown below-->
 The Emotion-Based Movie Recommendation System successfully demonstrates the integration of DeepFace and deep learning techniques to bridge the gap between human affect and digital content. By moving beyond traditional "static" recommendations (based solely on watch history), this system introduces a dynamic, context-aware experience.
 •	Accuracy: Using the DeepFace framework, the system achieved a high level of accuracy in identifying seven core emotions under varying lighting conditions.
@@ -70,7 +69,7 @@ The Emotion-Based Movie Recommendation System successfully demonstrates the inte
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
-## Articles published / References
+## Articles published / References:
 [1] Qingna Pu, Bin Hu, "Intelligent movie recommendation system based on hybrid recommendation algorithms," in 2023 International Conference on Ambient Intelligence, Knowledge Informatics and Industrial Electronics, 2023.
 
 [2] Angira Amit Patel, Dr. Jyotindra N. Dharwa, "An integrated hybrid recommendation model using graph database," in 2016 International Conference on ICT in Business Industry & Government (ICTBIG), 2016.
