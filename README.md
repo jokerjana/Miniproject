@@ -45,7 +45,7 @@ IDE & Version Control: VSCode for coding and debugging and Git for version contr
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - open camera and analyse your emotion
+#### Output1 -  emotion analysing
 
 <img width="1441" height="281" alt="Screenshot 2026-01-07 171034" src="https://github.com/user-attachments/assets/dd2f73b2-2581-45c5-b701-301cb6c833d5" />
 
@@ -72,11 +72,17 @@ This project serves as a foundation for future developments in assistive technol
 
 ## Articles published / References
 [1] Qingna Pu, Bin Hu, "Intelligent movie recommendation system based on hybrid recommendation algorithms," in 2023 International Conference on Ambient Intelligence, Knowledge Informatics and Industrial Electronics, 2023.
+
 [2] Angira Amit Patel, Dr. Jyotindra N. Dharwa, "An integrated hybrid recommendation model using graph database," in 2016 International Conference on ICT in Business Industry & Government (ICTBIG), 2016.
+
 [3] F. Maxwell Harper, Joseph A. Konstan, "The MovieLens datasets: history and context," ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19, 2015.
+
 [4] Prasanna Pramod Jain, Yash Dipak Patil, Yogeshwar Pawade, "Music and movie recommendation through emotion detection," in 2023 IJNRD, Volume 8, 2023. 
+
 [5] Jaladi Sam Joel, B. Ernest Thompson, Steve Renny Thomas, T. Revanth Kumar, Shajin Prince, Bini D, "Emotion based music recommendation system using deep learning model," in 2023 International Conference on Inventive Computation Technologies (ICICT), 2023.
+
 [6] Ms T Manju, Jayashakthi R, Nivethitha R, Lavanya P, "User- centric emotion modeling for next-generation recommender system," in 2023 International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering, 2023.
+
 [7]  Serengil, S. I., & Ozpinar, A. (2020). LightFace: A Hybrid Deep Face Recognition Framework. 2020 Innovations in Intelligent Systems and Applications Conference (ASYU).
 
 
